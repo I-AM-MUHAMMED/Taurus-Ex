@@ -30,7 +30,7 @@
 
 ## 🚀
 
-<a href="https://github.com/aju001"><img src="https://i.ibb.co/Ms57pyC/2.jpg" alt="2" width="600"></a>
+<a href="https://github.com/muhammed-usrbot"><img src="https://i.ibb.co/Ms57pyC/2.jpg" alt="2" width="600"></a>
 
 ## ERROR FIX IT YOURSELF
 
@@ -55,18 +55,18 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/aju001/AJU-SER/blob/master/session.json#L1)
+[`Click Here`](https://github.com/muhammed-usrbot/Taurus-Ex/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/aju001/AJU-SER/blob/master/index.js#L136)
-- CHANGE OWNER NAME [Here](https://github.com/aju001/AJU-SER/blob/master/index.js#L138)
+- CHANGE OWNER NUMBER [Here](https://github.com/muhammed-usrbot/taurus-ex/blob/master/index.js#L136)
+- CHANGE OWNER NAME [Here](https://github.com/muhammed-usrbot/taurus-ex/blob/master/index.js#L138)
 
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🚀 git clone https://github.com/aju001/AJU-SER.git
-🚀 cd AJU-SER
+🚀 git clone https://github.com/muhammed-usrbot/Taurus-Ex.git
+🚀 cd Taurus-Ex
 🚀 npm start
 ```
 ## For Termux
@@ -81,8 +81,8 @@ heroku/nodejs
 🚀 pkg install ffmpeg -y 
 🚀 pkg install wget
 🚀 pkg install imagemagick -y
-🚀 git clone https://github.com/aju001/AJU-SER
-🚀 cd AJU-SER
+🚀 git clone https://github.com/muhammed-usrbot/Taurus-Ex
+🚀 cd Taurus-Ex
 🚀 ls
 🚀 rm -rf session.json
 🚀 npm install
@@ -95,15 +95,15 @@ heroku/nodejs
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+917994873071"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+918157849715"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`My Youtube Channel`](https://youtube.com/channel/UCk4uZXPnYwPSo2YlQECp1RA)
+* [`My Youtube Channel`](https://youtube.com/c/TAURUSEDITS)
 
 ### ⚠ Warning ⚠
 
@@ -123,30 +123,30 @@ you can contact us
 ```
 
   <p align="center">
-  <a href="https://github.com/aju001/AJU-SER">
+  <a href="https://github.com/muhammed-usrbot/Taurus-Ex">
     
-<a href="https:https://github.com/aju001?tab=followers">
-<img src="https://img.shields.io/github/repo-size/aju001/AJU-SER?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https:https://github.com/muhammed-usrbot?tab=followers">
+<img src="https://img.shields.io/github/repo-size/muhammed-usrbot/AJU-SER?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/aj001/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/pepesir?color=blue&style=flat-square"></a>
-<a href="https://github.com/aju001/AJU-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aju001/AJU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/aju001/AJU-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aju001/AJU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/aju001/AJU-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/pepesir/AJU-SER?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/muhammed-usrbot/Taurus-Ex/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/muhammed-usrbot/Taurus-Ex?color=blue&style=flat-square"></a>
+<a href="https://github.com/muhammed-usrbot/Taurus-Ex/network/members"><img title="Forks" src="https://img.shields.io/github/forks/muhammed-usrbot/Taurus-Ex?color=blue&style=flat-square"></a>
+<a href="https://github.com/muhammed-usrbot/Taurus-Ex/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/muhammed-usrbot/Taurus-Ex?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 <p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aju001&show_icons=true&theme=dark&locale=en" alt="aju001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed-usrbot&show_icons=true&theme=dark&locale=en" alt="Taurus-Ex" /></p>
     
   <div align="center">
        
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aju001&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammed-usrbot&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
   </div>
  
 
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO)
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://github.com/muhammed-usrbot/taurus-ex)
 
 # Thanks To
-* [`Aju`](https://github.com/aju001)
+* [`Muhammed`](https://github.com/muhammed-usrbot)
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Xeon`](https://github.com/DGXeon)

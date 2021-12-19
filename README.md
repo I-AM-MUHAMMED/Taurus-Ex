@@ -1,6 +1,6 @@
 #### UPDATE : REPLIT ADDED SO THERES NO NEED OF TERMUX🔥 COPY THE SESSION AND PASTE IN SESSION.JSON
 
-#### NB : THERE ARE SLIGHT CHANGES IN THE DEPLOYING METHOD COMPARING WITH COMMON ASEENA BOT . SO WATCH THE VIDEO  FULLY THAT I HAVE UPLOADED BY [` CLICKING HERE`](http://c/TAURUSEDITS) OR ELSE MOST PROBABLY YOU WILL GET ERROR !
+#### NB : THERE ARE SLIGHT CHANGES IN THE DEPLOYING METHOD COMPARING WITH COMMON ASEENA BOT . SO WATCH THE VIDEO  FULLY THAT I HAVE UPLOADED BY [` CLICKING HERE`](https://youtube.com/c/TAURUSEDITS) OR ELSE MOST PROBABLY YOU WILL GET ERROR !
 
 
 
@@ -26,7 +26,7 @@
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@muhammed-usrbo1/Taurus-Ex-QRv=1)
 
-<a href="https://github.com/aju001"><img src="https://i.ibb.co/QKLkFh5/1.jpg" alt="2" width="600"></a>
+<a href="https://github.com/muhammed-usrbot"><img src="https://i.ibb.co/QKLkFh5/1.jpg" alt="2" width="600"></a>
 
 ## 🚀
 

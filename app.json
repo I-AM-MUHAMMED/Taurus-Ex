@@ -1,8 +1,8 @@
 {
-  "name": "AJU-SER BOT",
-  "description": "ajuser bot build with nodejs",
-  "repository": "https://github.com/aju001/AJU-SER",
-  "logo": "https://i.ibb.co/kQ98t1k/AJU.jpg",
+  "name": "TAURUS-EX",
+  "description": "Taurus ex build with nodejs by muhammed",
+  "repository": "https://github.com/muhammed-usrbot/Taurus-Ex",
+  "logo": "https://c.tenor.com/bVm05NUoyF0AAAAC/bokuno-hero-academia-izuku.gif",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
   "buildpacks": [
     {

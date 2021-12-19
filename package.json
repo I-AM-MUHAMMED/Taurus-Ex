@@ -1,5 +1,5 @@
 {
-  "name": "AJU-SER",
+  "name": "TAURUS-EX",
   "version": "1.0.0",
   "description": "TOD",
   "main": "main.js",
@@ -58,15 +58,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aju001/AJU-SER.git"
+    "url": "git+https://github.com/muhammed-usrbot/Taurus-Ex.git"
   },
   "keywords": [
     "Wasu"
   ],
-  "author": "AJU",
+  "author": "MUHAMMED",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aju001"
+    "url": "https://github.com/muhammed-usrbot"
   },
-  "homepage": "https://github.com/aju001"
+  "homepage": "https://github.com/muhammed-usrbot"
 }

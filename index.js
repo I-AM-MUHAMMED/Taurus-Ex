@@ -373,7 +373,7 @@ const checkRegisteredUser = (sender) => {
     const totalhit = JSON.parse(fs.readFileSync("./lib/totalcmd.json"))[0]
       .totalcmd;
 const daftar1 = `❑ Hi ${pushname} 🚀 ${ucapanWaktu} \n\n❑ Before Using the Bot Verify First 🙂`
-       const daftar2 = '```Click the button below to verify bro or type #verify\n𝙰𝙹𝚄 𝚂𝙸𝚁 😎```'
+       const daftar2 = '```Click the button below to verify bro or type #verify\n𝚃𝙰𝚄𝚁𝚄𝚂-𝙴𝚇```'
        const daftar3 = [
           {
             buttonId: `verify`,
@@ -916,7 +916,7 @@ xeon.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
       xeon.groupAdd(from, orangnya);
     };
         const grupinv = (teks) => {
-        	grup = xeon.prepareMessageFromContent(from, { "groupInviteMessage": { "groupJid": '6288213840883-1616169743@g.us', "inviteCode": 'https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO', "groupName": `Taurus-Ex Ofc.`, "footerText": "*_𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳_*", "jpegThumbnail": iye, "caption": teks}}, {quoted:mek})
+        	grup = xeon.prepareMessageFromContent(from, { "groupInviteMessage": { "groupJid": '6288213840883-1616169743@g.us', "inviteCode": 'https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL', "groupName": `Taurus-Ex Ofc.`, "footerText": "*_𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳_*", "jpegThumbnail": iye, "caption": teks}}, {quoted:mek})
             xeon.relayWAMessage(grup)
         }
 const fakeitem = (teks) => {
@@ -1673,13 +1673,13 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 │        ©918157849715
 │
 │  ❑ *ɢɪᴛʜᴜʙ ʟɪɴᴋ* :
-│  Check In YouTube👇👇
+│  https://github.com/muhammed-usrbot/Taurus-Ex
 │  
 │  ❑ *ʏᴏᴜᴛᴜʙᴇ ʟɪɴᴋ* :
-│  https://youtu.be/-HPoucnmGp8
+│  https://youtube.com/c/TAURUSEDITS
 │
 │  ❑ *ʙᴏᴛ ɢʀᴏᴜᴘ ʟɪɴᴋ*
-│  https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO
+│  https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL
 │
 │  ❑ *ᴏᴡɴᴇʀ* : 
 │  https://instagram.com/taurus.efx?utm_medium=copy_link
@@ -2549,7 +2549,7 @@ case 'git':
 case 'script':
 		case 'sc':
 		case 'sourcecode':
-		xeon.sendMessage(from, { text: "╭─➤ *ᴛᴀᴜʀᴜs sɪʀ*\n│       ❑  *sᴄʀɪᴘᴛ*\n│❖   ɢɪᴛʜᴜʙ:\n│❖   Check In YouTube👇👇\n│❖   ʏᴏᴜᴛᴜʙᴇ:\n│❖   https://youtu.be/-HPoucnmGp8\n│❖   ᴡᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ:\n╰────────────────❋ཻུ۪۪⸙\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n             ᴛᴀᴜʀᴜs sɪʀ\n\n╭◪ *ᴄᴏᴅᴅᴇᴅ ʙʏ ᴛᴀᴜʀᴜs*\n╰─────────────────❋ཻུ۪۪⸙", matchedText: 'nopee', description: "", title: "What are you doing?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
+		xeon.sendMessage(from, { text: "╭─➤ *ᴛᴀᴜʀᴜs sɪʀ*\n│       ❑  *sᴄʀɪᴘᴛ*\n│❖   ɢɪᴛʜᴜʙ:\n│❖   http://github.com/muhammed-usrbot/taurus-ex\n│❖   ʏᴏᴜᴛᴜʙᴇ:\n│❖   https://youtube.com/c/TAURUSEDITS\n│❖   ᴡᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ:\n╰────────────────❋ཻུ۪۪⸙\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n             ᴛᴀᴜʀᴜs sɪʀ\n\n╭◪ *ᴄᴏᴅᴅᴇᴅ ʙʏ ᴛᴀᴜʀᴜs*\n╰─────────────────❋ཻུ۪۪⸙", matchedText: 'nopee', description: "", title: "What are you doing?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
 		break
       //------------------< Sticker Cmd >-------------------
       case "addcmd":
@@ -3746,7 +3746,7 @@ case 'hacked':
                 await sleep(1000)
                 xeon.sendMessage(from, 'Succes Hacked', text, {quoted: fyt})
 case 'mygithub':
-  reply('╭─➤ *ᴛᴀᴜʀᴜs sɪʀ*\n│       ❑  *sᴄʀɪᴘᴛ*\n│❖   ɢɪᴛʜᴜʙ:\n│❖   Check In YouTube👇👇\n│❖   ʏᴏᴜᴛᴜʙᴇ:\n│❖   https://youtu.be/-HPoucnmGp8\n╰────────────────❋ཻུ۪۪⸙\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n             ᴛᴀᴜʀᴜs sᴇʀ\n\n╭◪ *ᴄᴏᴅᴅᴇᴅ ʙʏ ᴛᴀᴜʀᴜs*\n╰─────────────────❋ཻུ۪۪⸙')
+  reply('╭─➤ *ᴛᴀᴜʀᴜs sɪʀ*\n│       ❑  *sᴄʀɪᴘᴛ*\n│❖   ɢɪᴛʜᴜʙ:\n│❖   http://github.com/muhammed-usrbot/taurus-ex\n│❖   ʏᴏᴜᴛᴜʙᴇ:\n│❖   https://youtube.com/c/TAURUSEDITS\n╰────────────────❋ཻུ۪۪⸙\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n             ᴛᴀᴜʀᴜs sᴇʀ\n\n╭◪ *ᴄᴏᴅᴅᴇᴅ ʙʏ ᴛᴀᴜʀᴜs*\n╰─────────────────❋ཻུ۪۪⸙')
 					break;
    case 'ss':
       reply(mess.wait)
@@ -4021,7 +4021,7 @@ case 'debug2':
       {
         "urlButton": {
           "displayText": `Script ${fakeyoi}`,
-          "url": "╭─➤ *ᴛᴀᴜʀᴜs sɪʀ*\n│       ❑  *sᴄʀɪᴘᴛ*\n│❖   ɢɪᴛʜᴜʙ:\n│❖   Check In YouTube👇👇\n│❖   ʏᴏᴜᴛᴜʙᴇ:\n│❖   https://youtu.be/-HPoucnmGp8\n╰────────────────❋ཻུ۪۪⸙\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n             ᴛᴀᴜʀᴜs sɪʀ\n\n╭◪ *ᴄᴏᴅᴅᴇᴅ ʙʏ ᴛᴀᴜʀᴜs*\n╰─────────────────❋ཻུ۪۪⸙"
+          "url": "╭─➤ *ᴛᴀᴜʀᴜs sɪʀ*\n│       ❑  *sᴄʀɪᴘᴛ*\n│❖   ɢɪᴛʜᴜʙ:\n│❖   http://github.com/muhammed-usrbot/taurus-ex\n│❖   ʏᴏᴜᴛᴜʙᴇ:\n│❖   https://youtube.com/c/TAURUSEDITS\n╰────────────────❋ཻུ۪۪⸙\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n             ᴛᴀᴜʀᴜs sɪʀ\n\n╭◪ *ᴄᴏᴅᴅᴇᴅ ʙʏ ᴛᴀᴜʀᴜs*\n╰─────────────────❋ཻུ۪۪⸙"
         },
         "index": 0
       }

@@ -1,4 +1,4 @@
-## HEY GUYS
+## HEY GUYS READ THIS FULL
 
 ### 1.`First you need to create a github account` [CLICK HERE](github.com)
 

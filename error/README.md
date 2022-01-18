@@ -20,5 +20,5 @@ https://heroku.com/deploy?template=https://github.com/muhammed-usrbot/Taurus-Ex
 
 ### 9.`the click on <more> and view log`
 
-`You will get a notification on WhatsApp about your bot is ready`
+### `You will get a notification on WhatsApp about your bot is ready`
 

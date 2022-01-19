@@ -15,3 +15,10 @@
 <br>
    <a href="https://github.com/muhammed-usrbot/Taurus-Ex/blob/master/error/README.md"><img src="https://img.shields.io/badge/-tutorial for deploy this bot-blue?style=for-the-badge&logo=github&logoColor=white">
    <br>
+
+#### CREATE GITHUB ACCOUNT
+#### FORK THIS REPOSITORY
+#### SCAN THE QR
+#### COPY THE CODE FROM WHATSAPP
+#### AND PASTE IT ON SESSION.JSON
+#### THEN DEPLOY
